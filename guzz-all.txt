@@ -2082,8 +2082,10 @@ out.txt
 output-build.txt
 owfadmin
 oxebiz_admin
-package-lock.json
 package.json
+package-lock.json
+ui/package.json
+ui/package-lock.json
 padmin
 pages/admin/
 pages/admin/admin-login
