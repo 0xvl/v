@@ -2555,13 +2555,6 @@ zeroclipboard.swf
 !INSTALL.TXT
 !LICENSE.TXT
 !ReadMe.txt
-# directory-list-1.0.txt
-# directory-list-2.3-big.txt
-# directory-list-2.3-medium.txt
-# directory-list-2.3-small.txt
-# directory-list-lowercase-2.3-big.txt
-# directory-list-lowercase-2.3-medium.txt
-# directory-list-lowercase-2.3-small.txt
 ${idfwbonavigation}.xml
 %%-13^%%-135052920^header.tpl.php
 %%-14^%%-1407541581^method.tpl.php
